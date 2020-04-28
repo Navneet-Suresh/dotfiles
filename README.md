@@ -1,6 +1,6 @@
-# Dotfiles
+# Dotfiles - WIP
 
-My OSX / Ubuntu dotfiles.
+My Ubuntu dotfiles.
 
 ## About this project
 
